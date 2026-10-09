@@ -31,3 +31,8 @@ BevoBnB is a full-stack web application inspired by Airbnb, developed as part of
 - Resolve review disputes
 - Generate platform-wide reports (commissions, reservation volume, revenue)
 
+### Credits
+- Team Leader: Luke Hartfield (@lukehartfield)
+- Frontend Lead: (@crosenblum)
+- Brady: Brady
+- Etai: forexamplenothing.
